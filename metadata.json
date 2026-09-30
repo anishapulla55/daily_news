@@ -1,0 +1,6 @@
+{
+  "name": "The Singular | One Daily Article",
+  "description": "A minimalist, editorial broadsheet that curates and delivers one consequential news article per day to your reading room and inbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
